@@ -1,2 +1,2 @@
 # stone-paper-scissor
-This the game of stone-paper-scissor created with python
+This is the game of stone-paper-scissor created with python
